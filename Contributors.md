@@ -3609,6 +3609,7 @@ random guy
 - [Aatrey Sahay](https://github.com/aatrey56)
 - [Advait K](https://github.com/akin2662)
 - [Kevin Yao](https://github.com/kevinyao0901)
+- [Cadu](https://github.com/Carloseduardo-dev) - Deixando uma ⭐!
 - [KM0912](https://github.com/KM0912)
 - [Hiroto Kurokawa](https://github.com/hirotoKurokawaTnptine)
 - [Raihan Khairul Rochman](https://github.com/raihankr)
